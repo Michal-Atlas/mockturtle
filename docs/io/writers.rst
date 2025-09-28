@@ -48,7 +48,7 @@ Write into structural Verilog files
 Write into DIMACS files (CNF)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Header:** ``mockturtle/io/write_cnf.hpp``
+**Header:** ``mockturtle/io/write_dimacs.hpp``
 
 .. doxygenfunction:: mockturtle::write_dimacs(Ntk const&, std::string const&)
 
